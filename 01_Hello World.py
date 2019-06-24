@@ -1,1 +1,1 @@
-print("My first simple Python script!")
+print("My first simple Python script !")
